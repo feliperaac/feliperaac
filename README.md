@@ -1,4 +1,4 @@
-# 👨‍💻👋 Olá, eu sou o Felipe!
+# 👋 Olá, eu sou o Felipe!
 
 **`Administrador de Banco de Dados | Infrastructure as Code (IaC) | HomeLabs`**
 
