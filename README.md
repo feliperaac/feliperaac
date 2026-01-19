@@ -14,7 +14,7 @@ Sou apaixonado por tecnologia, no meu passatempo gosto de testar novas soluçõe
 - Dotfiles para montar ambientes de desenvolvimento.
 - Alguns scripts utilizados para manutenções em bancos.
 - Containers e implementações com Docker e Kubernetes
-- Script para administração de servidores.
+- Scripts para administração de servidores.
 
 ---
 
