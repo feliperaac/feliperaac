@@ -54,5 +54,7 @@ src="https://github.com/devicons/devicon/blob/v2.17.0/icons/debian/debian-origin
 <br/>
 
 ## 📫 Vamos nos conectar?
+<p align="center">
+🌐 <a href="https://www.linkedin.com/in/fegoncalvesac/">LinkedIn</a> | 📸 <a href="https://www.instagram.com/feliperaac">Instagram</a>
+</p>
 
-🌐 [LinkedIn](https://www.linkedin.com/in/fegoncalvesac/) | 📸 [Instagram](https://www.instagram.com/feliperaac)
