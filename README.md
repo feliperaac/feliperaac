@@ -1,6 +1,6 @@
 # 👨‍💻👋 Olá, eu sou o Felipe!
 
-**`Administrador de Banco de Dados | Infrastructure as Code (IaC) | HomeLabs`**
+**`Administrador de Banco de Dados | Infrastructure as Code (IaC) | HomeLabs | LinuxAdmin | Servidores Windows Server `**
 
 Atuo como DBA Oracle e SQLSERVER, apoiando áreas de infraestrutura e desenvolvimento, fornecendo diagnósticos e automação de processos.
 
@@ -14,6 +14,7 @@ Sou apaixonado por tecnologia, no meu passatempo gosto de testar novas soluçõe
 - Dotfiles para montar ambientes de desenvolvimento.
 - Alguns scripts utilizados para manutenções em bancos.
 - Containers e implementações com Docker e Kubernets
+- Script para administração de servidores.
 
 ---
 
