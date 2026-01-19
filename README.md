@@ -4,7 +4,7 @@
 
 Atuo como DBA Oracle e SQLSERVER, apoiando áreas de infraestrutura e desenvolvimento, fornecendo diagnósticos e automação de processos.
 
-Sou apaixonado por tecnologia, no meu passatempo gosto de testar novas soluções e ambientes no meu HomeLab. **trabalho com tecnologia há mais de 13 anos**
+Sou apaixonado por tecnologia, no meu passatempo gosto de testar novas soluções e ambientes no meu HomeLab. **trabalho com tecnologia há mais de 13 anos.**
 
 ---
 
