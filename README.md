@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Felipe!
+# 👨‍💻👋 Olá, eu sou o Felipe!
 
 **`Administrador de Banco de Dados | Infrastructure as Code (IaC) | HomeLabs`**
 
@@ -13,6 +13,7 @@ Sou apaixonado por tecnologia, no meu passatempo gosto de testar novas soluçõe
 - Scripts das minhas automações e IAC.
 - Dotfiles para montar ambientes de desenvolvimento.
 - Alguns scripts utilizados para manutenções em bancos.
+- Containers e implementações com Docker e Kubernets
 
 ---
 
@@ -35,6 +36,18 @@ src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343
 
 <img align="left" alt="VS Code" width="35px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+
+<img align="left" alt="Docker" width="35px" style="padding-right:10px;" 
+src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg" />
+
+<img align="left" alt="Kubernetes" width="35px" style="padding-right:10px;" 
+src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kubernetes/kubernetes-original.svg" />
+
+<img align="left" alt="Cloudflare" width="35px" style="padding-right:10px;" 
+src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cloudflare/cloudflare-original.svg" />
+
+<img align="left" alt="Debian" width="35px" style="padding-right:10px;" 
+src="https://github.com/devicons/devicon/blob/v2.17.0/icons/debian/debian-original.svg" />
 
 <br clear="left"/>
 <br/>
